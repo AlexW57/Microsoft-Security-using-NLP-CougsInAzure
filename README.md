@@ -1,0 +1,2 @@
+# Microsoft-Security-using-NLP-CougsInAzure
+This is my CAPSTONE project with Microsoft. The goal of this project is to create a machine learning program that Azure Sentinel can utilize to analyze security logs of any type and formatting to discover security threats. Our team is focused on using NLP algorithms to accomplish this goal. Note: Parts of the code are stored on Microsoft, so I am uploading some of the parts that I am working or have finished.
